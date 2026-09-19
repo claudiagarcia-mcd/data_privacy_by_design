@@ -8,8 +8,8 @@ Temario
 - Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados. 
 - Regulación GDPR / RGPD 
 - Regulación EU AI Act.   
-- Principios OECD Privacy Guidelines 
-- Principios OECD AI Principles 
+- [Principios OECD Privacy Guidelines](assets/PrincipiosOECDPrivacyGuidelines.md) | [Caso de uso](assets/PrincipiosOECDPrivacyGuidelines_casodeuso.md) | [Diagrama](assets/Diagrama_Principios_OECD_Privacy_Guidelines.png)
+- [Principios OECD AI Principles](assets/PrincipiosOECDAIPrinciples.md) | [Caso de uso](assets/PrincipiosOECDAIPrinciples_casodeuso.md) | [Diagrama](assets/Diagrama_Principios_OECD_AI_Principles.png)
 - ISO/IEC 27001:2022 
 - ISO/IEC 27701:2025 
 - ISO/IEC 27018:2025 
@@ -19,7 +19,7 @@ Temario
 - NIST Privacy Framework 
 - NIST AI RMF 1.0 
 - NIST AI 600-1 – GenAI Profile 
-- OWASP Top 10 for LLM Applications 
+- [OWASP Top 10 for LLM Applications](assets/OWASP_Top10_LLM_Applications.md) 
 - OWASP Agentic AI – Security 
 
 
