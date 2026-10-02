@@ -1,6 +1,6 @@
 # Ley Federal de Protección de Datos Personales en Posesión de los Particulares
 
-La **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)** establece el marco jurídico para proteger los datos personales que se encuentran en posesión de particulares. Su propósito es regular que el tratamiento de estos datos sea legítimo, controlado e informado, con el objetivo de garantizar la privacidad y el derecho de las personas a decidir sobre la información relacionada con ellas. La Ley aplica a las personas físicas o morales de carácter privado que realizan tratamiento de datos personales, aunque contempla algunas excepciones, como determinados casos relacionados con sociedades de información crediticia y el uso exclusivamente personal de datos sin fines de divulgación o comerciales. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+La **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)** establece el marco jurídico para proteger los datos personales que se encuentran en posesión de particulares. Su propósito es regular que el tratamiento de estos datos sea legítimo, controlado e informado, con el objetivo de garantizar la privacidad y el derecho de las personas a decidir sobre la información relacionada con ellas. La Ley aplica a las personas físicas o morales de carácter privado que realizan tratamiento de datos personales, aunque contempla algunas excepciones, como determinados casos relacionados con sociedades de información crediticia y el uso exclusivamente personal de datos sin fines de divulgación o comerciales. 
 
 La importancia de esta Ley aumenta en un contexto donde las organizaciones recopilan y procesan grandes cantidades de información mediante bases de datos, sistemas informáticos, plataformas digitales y herramientas de análisis. Los datos personales ya no deben considerarse únicamente como información almacenada en una base de datos, sino como información relacionada con personas que puede revelar aspectos de su vida privada, situación económica, salud, preferencias o comportamiento.
 
@@ -8,7 +8,7 @@ La importancia de esta Ley aumenta en un contexto donde las organizaciones recop
 
 La Ley comienza estableciendo los conceptos que permiten comprender todo el marco de protección. Entre ellos se encuentran **datos personales, datos personales sensibles, consentimiento, aviso de privacidad, responsable, persona encargada, tratamiento, transferencia y derechos ARCO**.
 
-Los datos personales son cualquier información relacionada con una persona identificada o identificable. Dentro de ellos existen los **datos personales sensibles**, que reciben una protección especial debido a que pertenecen a la esfera más íntima de la persona o porque su uso indebido puede provocar discriminación o representar un riesgo grave. La Ley menciona, entre otros, información relacionada con el origen racial o étnico, el estado de salud, información genética, creencias, opiniones políticas y preferencia sexual. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+Los datos personales son cualquier información relacionada con una persona identificada o identificable. Dentro de ellos existen los **datos personales sensibles**, que reciben una protección especial debido a que pertenecen a la esfera más íntima de la persona o porque su uso indebido puede provocar discriminación o representar un riesgo grave. La Ley menciona, entre otros, información relacionada con el origen racial o étnico, el estado de salud, información genética, creencias, opiniones políticas y preferencia sexual.
 
 Este punto es especialmente relevante para proyectos de **Data Science**, ya que una base de datos puede contener información que aparentemente parece ser solamente una variable, pero que en realidad representa características personales. Por ejemplo, una variable relacionada con el estado de salud puede convertirse en un dato sensible y requerir medidas adicionales de protección.
 
@@ -16,11 +16,11 @@ La Ley también define el **tratamiento de datos personales** de manera amplia. 
 
 ## Principios de protección de datos personales
 
-Uno de los elementos centrales de la LFPDPPP son los principios que deben observarse durante el tratamiento de datos personales. El responsable debe cumplir con los principios de **licitud, finalidad, lealtad, consentimiento, calidad, proporcionalidad, información y responsabilidad**. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+Uno de los elementos centrales de la LFPDPPP son los principios que deben observarse durante el tratamiento de datos personales. El responsable debe cumplir con los principios de **licitud, finalidad, lealtad, consentimiento, calidad, proporcionalidad, información y responsabilidad**. 
 
 El principio de **licitud** implica que los datos deben obtenerse y tratarse conforme a la Ley y demás disposiciones aplicables. Además, el responsable no debe utilizar medios engañosos o fraudulentos para obtener información y debe respetar la expectativa razonable de privacidad de la persona titular.
 
-El **consentimiento** representa la manifestación de voluntad mediante la cual la persona permite el tratamiento de sus datos. Puede ser expreso o tácito dependiendo de las circunstancias. Sin embargo, los datos financieros o patrimoniales requieren consentimiento expreso, salvo las excepciones previstas por la propia Ley. En el caso de los datos sensibles, se requiere consentimiento expreso y por escrito. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+El **consentimiento** representa la manifestación de voluntad mediante la cual la persona permite el tratamiento de sus datos. Puede ser expreso o tácito dependiendo de las circunstancias. Sin embargo, los datos financieros o patrimoniales requieren consentimiento expreso, salvo las excepciones previstas por la propia Ley. En el caso de los datos sensibles, se requiere consentimiento expreso y por escrito. 
 
 La Ley también establece situaciones en las que no es necesario obtener consentimiento. Por ejemplo, cuando una disposición jurídica lo establece, cuando los datos se encuentran en fuentes de acceso público, cuando han sido previamente disociados, cuando existe una relación jurídica que requiere su utilización o ante determinadas situaciones de emergencia o atención médica.
 
@@ -28,11 +28,11 @@ El principio de **finalidad** establece que los datos deben utilizarse para las 
 
 La **proporcionalidad** exige que solamente se traten los datos necesarios, adecuados y relevantes para cumplir las finalidades establecidas. Esto tiene una relación directa con la gestión de datos, ya que una organización no debería recopilar información simplemente porque técnicamente puede hacerlo.
 
-La **calidad** implica procurar que los datos sean exactos, completos, correctos y actualizados. Cuando dejan de ser necesarios para las finalidades para las cuales fueron obtenidos, deben ser suprimidos después de los periodos correspondientes de conservación y, cuando proceda, de bloqueo. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+La **calidad** implica procurar que los datos sean exactos, completos, correctos y actualizados. Cuando dejan de ser necesarios para las finalidades para las cuales fueron obtenidos, deben ser suprimidos después de los periodos correspondientes de conservación y, cuando proceda, de bloqueo.
 
 ## Aviso de privacidad e información al titular
 
-El **aviso de privacidad** es uno de los principales mecanismos mediante los cuales el responsable informa a la persona sobre el tratamiento de sus datos. Debe explicar aspectos como quién es el responsable, qué datos serán tratados, cuáles son sensibles, para qué serán utilizados, qué opciones existen para limitar su uso y cómo pueden ejercerse los derechos ARCO. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+El **aviso de privacidad** es uno de los principales mecanismos mediante los cuales el responsable informa a la persona sobre el tratamiento de sus datos. Debe explicar aspectos como quién es el responsable, qué datos serán tratados, cuáles son sensibles, para qué serán utilizados, qué opciones existen para limitar su uso y cómo pueden ejercerse los derechos ARCO.
 
 El aviso puede proporcionarse mediante formatos impresos, digitales, visuales, sonoros o cualquier otra tecnología. Cuando los datos se obtienen mediante medios electrónicos, puede utilizarse una modalidad simplificada que proporcione la información esencial y señale dónde consultar el aviso integral.
 
@@ -42,13 +42,13 @@ En proyectos de **Business Intelligence, Business Analytics y Data Science**, es
 
 ## Seguridad y confidencialidad
 
-La Ley establece que los responsables deben implementar **medidas administrativas, técnicas y físicas** para proteger los datos personales contra daño, pérdida, alteración, destrucción, acceso no autorizado o tratamiento no autorizado. Las medidas deben considerar factores como el riesgo, las posibles consecuencias para las personas, la sensibilidad de los datos y el desarrollo tecnológico. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+La Ley establece que los responsables deben implementar **medidas administrativas, técnicas y físicas** para proteger los datos personales contra daño, pérdida, alteración, destrucción, acceso no autorizado o tratamiento no autorizado. Las medidas deben considerar factores como el riesgo, las posibles consecuencias para las personas, la sensibilidad de los datos y el desarrollo tecnológico.
 
 La seguridad de la información no debe entenderse únicamente como una cuestión técnica. También implica establecer procedimientos organizacionales, controles de acceso, responsabilidades y mecanismos que permitan reducir los riesgos asociados con el tratamiento de los datos.
 
 Cuando ocurre una vulneración de seguridad que afecta significativamente los derechos patrimoniales o morales de las personas titulares, el responsable debe informarles de manera inmediata para que puedan tomar las medidas correspondientes.
 
-La Ley también establece el deber de **confidencialidad** para las personas que intervienen en cualquier etapa del tratamiento. Esta obligación continúa incluso después de que termine la relación que tenían con el responsable. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+La Ley también establece el deber de **confidencialidad** para las personas que intervienen en cualquier etapa del tratamiento. Esta obligación continúa incluso después de que termine la relación que tenían con el responsable. 
 
 ## Derechos de las personas titulares: ARCO
 
@@ -58,11 +58,11 @@ El derecho de **acceso** permite a la persona conocer los datos personales que s
 
 El derecho de **rectificación** permite solicitar la corrección de datos que sean inexactos, incompletos o que no estén actualizados.
 
-El derecho de **cancelación** permite solicitar que los datos dejen de estar en posesión del responsable. La cancelación implica primero un periodo de bloqueo y posteriormente la supresión de los datos, aunque existen situaciones en las que la Ley permite conservarlos. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+El derecho de **cancelación** permite solicitar que los datos dejen de estar en posesión del responsable. La cancelación implica primero un periodo de bloqueo y posteriormente la supresión de los datos, aunque existen situaciones en las que la Ley permite conservarlos. 
 
 Finalmente, el derecho de **oposición** permite que una persona se oponga al tratamiento de sus datos cuando exista una causa legítima que justifique que dicho tratamiento debe detenerse. También contempla determinados tratamientos automatizados que pueden producir efectos jurídicos no deseados o afectar significativamente los intereses, derechos o libertades de una persona.
 
-Este último aspecto tiene especial importancia para **Data Science e inteligencia artificial**, debido a que los sistemas automatizados pueden utilizar datos personales para evaluar o predecir características relacionadas con las personas. La Ley contempla expresamente situaciones en las que un tratamiento automatizado puede analizar o predecir aspectos como el rendimiento profesional, situación económica, estado de salud, preferencias sexuales, fiabilidad o comportamiento. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+Este último aspecto tiene especial importancia para **Data Science e inteligencia artificial**, debido a que los sistemas automatizados pueden utilizar datos personales para evaluar o predecir características relacionadas con las personas. La Ley contempla expresamente situaciones en las que un tratamiento automatizado puede analizar o predecir aspectos como el rendimiento profesional, situación económica, estado de salud, preferencias sexuales, fiabilidad o comportamiento. 
 
 ## Ejercicio de los derechos ARCO
 
@@ -70,7 +70,7 @@ La Ley establece el procedimiento mediante el cual una persona puede ejercer sus
 
 El responsable debe designar a una persona o departamento encargado de atender estas solicitudes y fomentar la protección de datos dentro de la organización.
 
-La respuesta debe comunicarse en un plazo máximo de **20 días** y, cuando la solicitud resulte procedente, debe hacerse efectiva dentro de los **15 días siguientes** a la comunicación. Estos plazos pueden ampliarse una sola vez por un periodo igual cuando las circunstancias lo justifiquen. [Cámara de Diputados](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+La respuesta debe comunicarse en un plazo máximo de **20 días** y, cuando la solicitud resulte procedente, debe hacerse efectiva dentro de los **15 días siguientes** a la comunicación. Estos plazos pueden ampliarse una sola vez por un periodo igual cuando las circunstancias lo justifiquen.
 
 El ejercicio de los derechos ARCO es gratuito, aunque pueden cobrarse los costos de reproducción, copias o envío. La Ley también establece situaciones en las que el responsable puede negar una solicitud, por ejemplo, cuando los datos no se encuentren en su posesión, cuando se afecten derechos de terceros o exista un impedimento legal.
 
@@ -145,19 +145,6 @@ Por ello, la protección de datos debe integrarse al ciclo de vida de los proyec
 ## Relación entre privacidad, seguridad y análisis de datos
 
 Uno de los aspectos más importantes de la Ley es que la protección de datos no debe considerarse como una actividad independiente del proceso de análisis. La privacidad, la seguridad y la gobernanza deben formar parte de la forma en que una organización administra sus datos.
-
-En un proyecto de Data Science, esto puede traducirse en preguntas como:
-
-- **¿Qué datos estamos recopilando y por qué?** Esto se relaciona con finalidad y proporcionalidad.
-- **¿La persona sabe cómo serán utilizados?** Esto se relaciona con el aviso de privacidad y el principio de información.
-- **¿Contamos con autorización cuando es necesaria?** Esto se relaciona con el consentimiento.
-- **¿Los datos están protegidos?** Esto se relaciona con las medidas de seguridad.
-- **¿Los datos son correctos y están actualizados?** Esto se relaciona con el principio de calidad.
-- **¿La persona puede ejercer sus derechos?** Esto se relaciona con los derechos ARCO.
-- **¿Quién puede acceder a la información?** Esto se relaciona con seguridad y confidencialidad.
-- **¿Qué sucede cuando los datos dejan de ser necesarios?** Esto se relaciona con conservación, bloqueo y supresión.
-
-De esta manera, la LFPDPPP puede utilizarse como una referencia para incorporar la privacidad y la protección de datos dentro de los procesos de gestión y análisis de información.
 
 ## Conclusión
 
