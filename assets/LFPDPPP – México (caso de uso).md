@@ -62,7 +62,6 @@ La empresa implementa:
 - Capacitación al personal.
 - Monitoreo de incidentes.
 (Artículos 18 al 20).
-Valor agregado
 - Protección de la información.
 - Reducción de riesgos de fuga de datos.
 5. Atención de derechos ARCO
@@ -72,23 +71,12 @@ Se habilita un portal donde los usuarios pueden:
 - Solicitar la eliminación de información.
 - Oponerse a ciertos tratamientos.
 (Artículos 22 al 35).
-Valor agregado
 - Mayor control para los titulares.
 - Mejora de la experiencia del usuario.
 6. Transferencia de datos
 La empresa revisa sus contratos con proveedores de servicios tecnológicos para asegurar que cualquier transferencia de datos cumpla con las condiciones establecidas por la ley.
 (Artículos 36 y 37).
-Valor agregado
-- Menor exposición legal.
-- Mejor control sobre terceros.
-Preguntas que podría responder un RAG entrenado con la ley
-- ¿Qué son los datos personales sensibles?
-- ¿Qué artículos regulan el aviso de privacidad?
-- ¿Qué derechos conforman los derechos ARCO?
-- ¿Cuándo se requiere consentimiento del titular?
-- ¿Qué obligaciones tiene una empresa respecto a la seguridad de los datos?
-- ¿Qué artículos regulan la transferencia de datos personales?
-- ¿Qué sanciones existen por incumplimiento?
+
 Resultado del caso de uso
 Después de implementar estas medidas, CompraFácil México logra cumplir con los requisitos fundamentales de la LFPDPPP, mejorar la protección de los datos de sus clientes y reducir riesgos legales y reputacionales.
 Además, la empresa desarrolla una cultura de protección de datos donde la privacidad deja de ser únicamente una obligación legal y se convierte en un elemento estratégico para generar confianza y fortalecer la relación con sus clientes.
